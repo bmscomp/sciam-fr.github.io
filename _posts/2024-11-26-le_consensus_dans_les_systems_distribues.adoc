@@ -1,0 +1,20 @@
+= Un design évolutif pour des solutions révolutionnaires
+:showtitle:
+:page-navtitle: Le consensus dans les systèmes distribués
+:page-excerpt:
+:layout: post
+:author: saidboudjelda
+:page-tags: [Systèmes distribués, Algorithme de consensus, Tolérance aux pannes, Cohérence éventuelle, Atomic Broadcast]
+:page-vignette: genetics.png
+:page-liquid:
+:page-categories: Élection de leader, Concensus, Systèmes distribués
+
+
+== Introduction
+
+== Conclusion
+
+== Références
+
+[bibliography]
+* P.J.E. Peebles, *Principles of Physical Cosmologye*, Princeton Univ Pr, Ewing, New Jersey, U.S.A, 1993.
