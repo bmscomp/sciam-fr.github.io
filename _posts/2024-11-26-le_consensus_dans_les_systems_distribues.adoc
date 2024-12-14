@@ -1,16 +1,18 @@
 = Un design évolutif pour des solutions révolutionnaires
 :showtitle:
 :page-navtitle: Le consensus dans les systèmes distribués
-:page-excerpt:
+:page-excerpt: Explorons les algorithmes de consensus dans les systèmes distribués.
 :layout: post
 :author: saidboudjelda
-:page-tags: [Systèmes distribués, Algorithme de consensus, Tolérance aux pannes, Cohérence éventuelle, Atomic Broadcast]
-:page-vignette: genetics.png
+:page-tags: [Systèmes distribués, Algorithme de consensus, Tolérance aux pannes]
+:page-vignette: distributed_systems.png
 :page-liquid:
-:page-categories: Élection de leader, Concensus, Systèmes distribués
+:page-categories: software, news
 
 
-== Introduction
+
+== De quoi s'agit-il ?
+
 
 == Conclusion
 
